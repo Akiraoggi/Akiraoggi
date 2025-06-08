@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
+🎿 IT Engineer & Consultant in Niseko, Hokkaido 🏔️
+Supporting local businesses with IT solutions in Japan's premier ski resort town.
 
-<!--
-**Akiraoggi/Akiraoggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I do:
 
-Here are some ideas to get you started:
+IT support & consulting for SMBs
+AI integration & automation solutions
+Security systems & digital signage
+Network setup & PC configuration
+Helping tourism businesses go digital
+🌍 Bridging technology and hospitality | 🗣️ Japanese & English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Making technology simple for everyone
+
